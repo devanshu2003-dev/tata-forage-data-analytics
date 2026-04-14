@@ -12,7 +12,7 @@ Completed a data analytics job simulation focused on extracting business insight
 - Benchmark store selection for uplift testing
 
 ## Tools Used
-- Python (Pandas, NumPy)
+- R
 - Excel
 - Data Visualization
 
